@@ -2,7 +2,7 @@
 const cadena1 = " Hola ";
 const cadena2 = " Mundo ";
 
-console.log(cadena1 + cadena2);
+//console.log(cadena1 + cadena2);
 
 const ejemplo1 = "Hola ";
 const ejemplo2 = "mundo ";
